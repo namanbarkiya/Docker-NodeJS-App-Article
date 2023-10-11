@@ -1,6 +1,6 @@
 [![tests](https://github.com/madhums/node-express-mongoose-demo/actions/workflows/test.yml/badge.svg)](https://github.com/madhums/node-express-mongoose-demo/actions/workflows/test.yml)
 
-# Nodejs Express Mongoose Demo
+# PBL Project for Docker and Jest
 
 This is a demo application illustrating various features used in everyday web development, with a fine touch of best practices. The demo app is a blog application where users can signup, create an article, delete an article and add comments etc.
 
@@ -8,11 +8,11 @@ Table of contents:
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Boilerplate](#boilerplate)
-- [Install](#install)
-- [Tests](#tests)
-- [Docker](#docker)
-- [License](#license)
+-   [Boilerplate](#boilerplate)
+-   [Install](#install)
+-   [Tests](#tests)
+-   [Docker](#docker)
+-   [License](#license)
 
 <!-- /TOC -->
 
@@ -20,8 +20,8 @@ Table of contents:
 
 Want to build something from scratch? use the [boilerplate](https://github.com/madhums/node-express-mongoose)
 
-* Checkout the [apps that are built using this approach](https://github.com/madhums/node-express-mongoose/wiki/Apps-built-using-this-approach)
-* The [wiki](https://github.com/madhums/node-express-mongoose/wiki) is wip, it has some information about the way application is setup.
+-   Checkout the [apps that are built using this approach](https://github.com/madhums/node-express-mongoose/wiki/Apps-built-using-this-approach)
+-   The [wiki](https://github.com/madhums/node-express-mongoose/wiki) is wip, it has some information about the way application is setup.
 
 ## Install
 
